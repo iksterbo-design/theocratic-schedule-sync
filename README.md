@@ -2,7 +2,7 @@
 
 A prayer-meeting and volunteer dashboard with a recurring weekly schedule and iCal export.  
 
-Live: `https://placeholder.vercel.app`
+Live: `https://theocratic-schedule-sync-gamlhghup-rojo12.vercel.app`
 
 ## Stack
 - Vite + Vanilla TypeScript + Tailwind CSS (dark mode)
